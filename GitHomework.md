@@ -94,3 +94,5 @@
 Для просмотра истории коммитов по всем веткам используется флаг **--all**.
 
 > git log --all --graph --oneline --decorate
+
+### Данная информация была взята с сайта <https://habr.com/ru/companies/ruvds/articles/599929/>
