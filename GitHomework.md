@@ -101,4 +101,5 @@ git init - инициализация гита
 git status - команда, вызов.блок инф.состояния. реп
 ## Lesson 2
 branch - ветка
-
+git branch - выводит ветки
+git branch name - создание ветки
