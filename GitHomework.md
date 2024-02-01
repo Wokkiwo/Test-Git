@@ -96,3 +96,5 @@
 > git log --all --graph --oneline --decorate
 
 ### Данная информация была взята с сайта <https://habr.com/ru/companies/ruvds/articles/599929/>
+
+## Lesson 2
