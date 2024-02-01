@@ -97,4 +97,6 @@
 
 ### Данная информация была взята с сайта <https://habr.com/ru/companies/ruvds/articles/599929/>
 
+git status - команда, вызов.блок инф.состояния. реп
 ## Lesson 2
+
