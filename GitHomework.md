@@ -131,6 +131,24 @@ GitHub
 ## Слияние двух веток
 
 
+
+
+
+
+wqdqqqqqqqqqadq
+ad
+ASD
+
+Ad
+aD
+
+
+
+
+
+
+
+
 git branch -D existing_branch_name
 
 
