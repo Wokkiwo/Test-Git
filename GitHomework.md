@@ -105,3 +105,7 @@ git branch - выводит ветки
 git branch name - создание ветки
 
 GitHub
+
+## Создание новой ветки и переход в неё
+
+git branch name - создание ветки
