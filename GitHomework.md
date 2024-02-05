@@ -134,11 +134,15 @@ GitHub
 git branch -D existing_branch_name
 
 
-dd
+sdf
+sdf
 
-
-
-
-
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf
 
 ## Прекращение слияния при конфликте
